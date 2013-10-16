@@ -1,0 +1,10 @@
+#Sat Nov 12 20:56:05 HKT 2011
+eclipse.preferences.version=1
+encoding//src/kernel/AntiInjection.java=GBK
+encoding//src/kernel/Character.java=GBK
+encoding//src/kernel/DatabasePool.java=GBK
+encoding//src/kernel/Encoding.java=GBK
+encoding//src/kernel/FunctionCore.java=GBK
+encoding//src/kernel/Interface.java=GBK
+encoding//src/kernel/RandomCode.java=GBK
+encoding//src/kernel/SendMail.java=GBK

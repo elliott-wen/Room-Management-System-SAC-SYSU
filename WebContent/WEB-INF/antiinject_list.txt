@@ -1,0 +1,6 @@
+update	antiinject03
+insert	antiinject04
+drop	antiinject05
+delete	antiinject06
+select	antiinject01
+or	antiinject01
